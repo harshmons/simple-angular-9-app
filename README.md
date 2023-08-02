@@ -5,6 +5,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # How to setup the project
 
 - Clone this repo to your local system
-- Node version - `v14.21.3`
-- Go to the folder and run `npm install`
+- Node version - `v14.21.3`(install from nodejs website)
+- Go to the  root folder of this and run `npm install`
 - Run `npm start`
